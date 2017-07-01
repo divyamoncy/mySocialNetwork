@@ -1,0 +1,20 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "dependencies": {
+    "cowsay": "^1.1.9",
+    "express": "^4.15.3",
+    "ejs": "^2.5.6",
+    "nedb": "^1.8.0",
+    "shrekjs": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node yule.js"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}

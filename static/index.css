@@ -1,0 +1,32 @@
+#k{
+	color:white;
+	background-color: rgba(1,1,1,0.5);
+	font-family:BankGothic Lt BT Light;
+	font-size:60px;
+}
+body{
+	background-image:url('bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+background-position: center;
+}
+
+#a{
+	background-color: rgba(1,1,1,0.5);
+	margin-bottom: 50px;
+	padding: 30px; 
+	font-size: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#b{
+	background-color: rgba(1,1,1,0.5);
+	margin-bottom: 50px;
+	padding: 30px;
+	font-size: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+b{
+	color:white;
+}

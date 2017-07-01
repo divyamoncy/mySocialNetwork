@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="../indiv.css">
+
+	
+	
+</head>
+<body>
+<nav class="navbar navbar-inverse"><div class="container-fluid"> <div class="navbar-header"> <button type="button" class="collapsed navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-9" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <a href="#" class="navbar-brand"><%= res[0].username+"'s "%>Profile</a> </div> <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9"> <ul class="nav navbar-nav"> <li><a href="#">About</a></li> <li><a href="#">Photos</a></li> <li><a href="#">Likes</a></li> </div></ul>  </div></nav>
+<div class="row">
+<div class="col-md-2" id="a"><img src="https://cdn.tutsplus.com/vector/uploads/2014/02/cartoonFace0.jpg" height="200px" width="200px" align="left"></div>
+<div class="col-md-9" id="b"><h2><%= res[0].username %></h2><br>
+<h3>Email:<%= res[0].email %></h3></div>
+</div>
+
+
+</body>
+</html>

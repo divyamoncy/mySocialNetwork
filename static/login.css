@@ -1,0 +1,31 @@
+body{
+	background-image: url("p2.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+
+
+h1
+{
+	background:  #0A1459;
+	margin-right: 1000px;
+	padding-left: 45px;
+	color: white;
+	font-family: Felix Titling Regular;
+	font-size: 60px;
+    border-style: solid;
+    border-left-color:#44CFF1;
+    border-right-color:#44CFF1;
+    border-top-color: #077CB2;
+    border-bottom-color: #077CB2;
+    border-width: 16px;
+
+
+
+
+
+}
